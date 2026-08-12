@@ -1,4 +1,4 @@
-# Courseware QA Report — v2.0
+# Courseware QA Report — v2.1
 
 Course: Corporate Law Compliance for Business Owners  
 Course code: TGS-2025053923  
@@ -30,13 +30,14 @@ No stale K3 reference from the old learner paper remains.
 - Independent shape-geometry check found zero objects outside the slide canvas.
 - The bundled pixel-padding checker reports every slide because its enlarged test canvas conflicts with the deck's explicit full-bleed white background. This is a tool false-positive: the shape-geometry check and rendered visual review both show no overflow.
 - No detailed procedural steps, screenshots, buttons, menus or click instructions appear in the PPT. Conceptual process maps remain as learning content.
-- Eight activities use overview, scenario and debrief/success-check slides only.
+- Eight activities use overview, real-case evidence and debrief/success-check slides only.
 
 ## C. Learner Guide and Lesson Plan QA
 
-- Learner Guide: 36 pages, visually inspected page-by-page through a complete contact sheet.
+- Learner Guide: 40 pages, visually inspected page-by-page through four complete contact sheets.
 - Lesson Plan: 7 pages, visually inspected page-by-page.
-- Detailed steps, scenarios, questions, worksheets, acceptance checks and linked sources are present for all eight activities.
+- Detailed steps, real-case scenarios, questions, worksheets, acceptance checks and linked official sources are present for all eight activities.
+- Each Markdown activity has a matching two-page branded PDF; all 16 activity pages were rendered and visually inspected.
 - Lesson Plan slide ranges are generated from `courseware/slide_map.json`; mappings cover slides 1–103.
 - DOCX ZIP integrity passed; generated PDFs open and report the expected page counts.
 
@@ -52,7 +53,8 @@ No stale K3 reference from the old learner paper remains.
 
 ## E. Source QA
 
-- Singapore propositions are tied to current ACRA, IRAS, MOM and PDPC sources in the slide footers, Learner Guide and `SOURCES.md`.
+- Singapore propositions and the eight activity cases are tied to ACRA, IRAS, MOM and PDPC sources in the slide footers, Learner Guide, activity worksheets and `SOURCES.md`.
+- Case status is stated precisely. Charges are not described as convictions, published findings are separated from learner assumptions, and missing incident facts are not invented.
 - Secondary sources are used only for comparative compliance-programme concepts; foreign law is not presented as Singapore law.
 - The supplied ACRA announcement 872 page was inaccessible at build time and is explicitly marked as not relied upon.
 - Educational/legal-advice boundary and currency warnings are prominent.

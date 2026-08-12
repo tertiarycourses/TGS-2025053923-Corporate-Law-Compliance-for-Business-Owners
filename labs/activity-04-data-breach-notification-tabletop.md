@@ -1,23 +1,34 @@
 # Activity 4: Data Breach Notification Tabletop
 
-**Mapping:** K1, A1 / LO1  
-**Duration:** 20 minutes  
+**Mapping:** K1, A1 / LO1
+**Duration:** 20 minutes
 **Deliverable:** Incident decision log, notification outline and remediation list.
 
 ## Goal
 
 Practise containment, assessment, decision ownership, notification timing and evidence capture under the PDPA breach-notification framework.
 
-## Scenario
+## Real Case Study
 
-BrightCart's customer-support vendor emailed a spreadsheet containing 1,800 customer records to the wrong external recipient. The file includes names, contact details, order history and loyalty status. The recipient says the message was deleted but cannot provide technical proof.
+**Case:** PDPC February 2026 ransomware decision - shared B2B e-commerce network
+**Date:** 26 February 2026
+**Status:** PDPC decision; organisation not named in the announcement summary
+**Official source:** [PDPC - Decision and undertakings announced on 26 February 2026](https://www.pdpc.gov.sg/news-and-events/announcements/2026/02/new-commissions-decision-and-undertakings-on-26-february-2026)
+
+### Published Facts
+
+PDPC announced a decision concerning a ransomware incident on a shared network managed by a B2B e-commerce service provider. About 39,000 individuals were affected and bank and credit-card details were among the data rendered inaccessible. PDPC identified unpatched systems, weak access controls and failure to enforce multi-factor authentication, found a breach of the Protection Obligation, and issued directions to strengthen security.
+
+### Exercise Boundary
+
+The official summary does not publish every incident-response timestamp. Learners must identify missing facts and build a notification decision log without inventing what the organisation actually knew or notified.
 
 ## Questions
 
-1. What must be done in the first hour?
-2. What facts determine significant harm or significant scale?
-3. When does the three-calendar-day notification clock matter?
-4. What records support the decision whether or not to notify?
+1. What containment and evidence-preservation actions should begin first?
+2. Which published facts affect significant-harm or significant-scale assessment?
+3. Which missing timestamps are needed to apply the three-calendar-day rule?
+4. What should the decision log show even when the public summary is silent?
 
 ## Detailed Step-by-Step
 
@@ -51,6 +62,7 @@ BrightCart's customer-support vendor emailed a spreadsheet containing 1,800 cust
 
 ## Sources
 
+- [PDPC - Decision and undertakings announced on 26 February 2026](https://www.pdpc.gov.sg/news-and-events/announcements/2026/02/new-commissions-decision-and-undertakings-on-26-february-2026)
 - [PDPC - Required to notify the PDPC](https://www.pdpc.gov.sg/report-data-breach/before-you-report-a-data-breach-3/info)
 
 > Educational activity only; verify current requirements with the relevant regulator and qualified advisers.

@@ -12,3 +12,4 @@ archive/
 *.pyc
 __pycache__/
 .~lock.*#
+~$*

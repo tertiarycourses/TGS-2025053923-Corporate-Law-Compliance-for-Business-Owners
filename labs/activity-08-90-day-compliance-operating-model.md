@@ -1,23 +1,34 @@
 # Activity 8: 90-Day Compliance Operating Model
 
-**Mapping:** K2, A3 / LO2  
-**Duration:** 20 minutes  
+**Mapping:** K2, A3 / LO2
+**Duration:** 20 minutes
 **Deliverable:** 30-60-90 day roadmap and monthly compliance dashboard outline.
 
 ## Goal
 
 Design a practical 30-60-90 day operating model covering ownership, calendar, controls, training, reporting, speak-up channels and assurance.
 
-## Scenario
+## Real Case Study
 
-NovaCare Pte Ltd is growing from 20 to 80 employees and launching a digital service for healthcare clinics. Compliance tasks sit with different founders, deadlines are tracked in personal calendars, and employees do not know where to report concerns.
+**Case:** Stars Engrg - fatal 2021 Tuas workplace explosion
+**Date:** 25 June 2026 sentencing announcement
+**Status:** Director and production manager sentenced; company fined $500,000
+**Official source:** [MOM - Stars Engrg director sentenced over 2021 Tuas explosion](https://www.mom.gov.sg/newsroom/press-releases/2026/0625-stars-engrg-director-sentenced-over-2021-workplace-explosion-at-tuas)
+
+### Published Facts
+
+MOM reported that a 24 February 2021 explosion at Stars Engrg's Tuas worksite killed three workers and injured seven. A heated mixer had been operated unsafely despite overheating, oil leaks, smoke and an earlier fire. Investigations identified failures in risk assessment, safe work procedures, maintenance, supervision and training. The director was imprisoned, the company fined $500,000, and the production manager imprisoned for obstructing justice after messages were deleted.
+
+### Exercise Boundary
+
+The published failures are the diagnostic baseline. The 30-60-90 day operating model is a learner-designed remediation and prevention plan, not MOM's prescribed plan for the company.
 
 ## Questions
 
-1. What must be stabilised in the first 30 days?
-2. Which controls should be piloted before full deployment?
-3. What should management and the board see each month?
-4. How will the organisation know the programme is effective?
+1. Which warning signs and unsafe conditions required immediate stop-work action?
+2. Which risk, maintenance, training and supervision controls should be stabilised first?
+3. What should management and the board see about exceptions and unresolved hazards?
+4. How should evidence preservation and speak-up protection be built into the model?
 
 ## Detailed Step-by-Step
 
@@ -51,6 +62,8 @@ NovaCare Pte Ltd is growing from 20 to 80 employees and launching a digital serv
 
 ## Sources
 
+- [MOM - Stars Engrg director sentenced over 2021 Tuas explosion](https://www.mom.gov.sg/newsroom/press-releases/2026/0625-stars-engrg-director-sentenced-over-2021-workplace-explosion-at-tuas)
+- [MOM - WSH Act responsibilities of stakeholders](https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-act/responsibilities-of-stakeholders)
 - [University of Pittsburgh Law - Corporate compliance laws and regulations](https://online.law.pitt.edu/blog/corporate-compliance-legislation)
 - [LeapXpert - Mastering legal compliance](https://www.leapxpert.com/mastering-legal-compliance-a-guide-for-businesses/)
 - [BizBot - Legal compliance in company management](https://www.bizbot.com/blog/legal-compliance-in-company-management/)

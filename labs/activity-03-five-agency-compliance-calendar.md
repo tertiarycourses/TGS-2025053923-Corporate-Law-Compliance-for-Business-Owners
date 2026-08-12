@@ -1,23 +1,34 @@
 # Activity 3: Five-Agency Compliance Calendar
 
-**Mapping:** K1, A1 / LO1  
-**Duration:** 25 minutes  
+**Mapping:** K1, A1 / LO1
+**Duration:** 25 minutes
 **Deliverable:** 12-month compliance calendar and evidence register.
 
 ## Goal
 
 Convert company facts into a calendar of ACRA, IRAS, MOM/CPF, WSH and PDPA responsibilities with evidence owners.
 
-## Scenario
+## Real Case Study
 
-Harbour & Hearth Pte Ltd runs two cafes and an online shop. It is GST-registered, employs Singapore citizens, PRs and work-pass holders, stores customer loyalty data, and is preparing its first full financial year close.
+**Case:** Wan Lin Healthcare Centre - income tax and GST evasions
+**Date:** 12 December 2022
+**Status:** Convictions and sentences reported by IRAS
+**Official source:** [IRAS - Husband and wife convicted for multiple tax evasions](https://www.iras.gov.sg/news-events/newsroom/husband-and-wife-convicted-for-multiple-tax-evasions)
+
+### Published Facts
+
+IRAS reported that Lim Meng Fatt and Gan Bee Bee were convicted for income tax and GST evasions involving Wan Lin Healthcare Centre Pte Ltd. The case included omitted output tax, fraudulent GST deregistration while the company remained liable to be registered, and a false Productivity and Innovation Credit claim. The court imposed imprisonment terms and substantial financial penalties.
+
+### Exercise Boundary
+
+Build the calendar from the published tax failures, then add ACRA, employment/CPF, WSH and PDPA rows as a clearly labelled prospective control extension. Do not imply that IRAS found Wan Lin in breach of those other regimes.
 
 ## Questions
 
-1. Which obligations are event-driven, monthly, annual or incident-driven?
-2. What source evidence proves each duty was met?
-3. Where do two regulators depend on the same underlying record?
-4. Which dates must be verified annually rather than hard-coded forever?
+1. Which tax events and records should have appeared in Wan Lin's compliance calendar?
+2. Which evidence should reconcile sales, output tax, GST status and corporate tax?
+3. Which independent review could have detected the published failures earlier?
+4. Which non-tax calendar rows are prospective extensions rather than case findings?
 
 ## Detailed Step-by-Step
 
@@ -51,6 +62,7 @@ Harbour & Hearth Pte Ltd runs two cafes and an online shop. It is GST-registered
 
 ## Sources
 
+- [IRAS - Husband and wife convicted for multiple tax evasions](https://www.iras.gov.sg/news-events/newsroom/husband-and-wife-convicted-for-multiple-tax-evasions)
 - [ACRA - Company directors' duties & key obligations](https://www.acra.gov.sg/manage/companies/legal-requirements-common-offences/directors-duties/)
 - [IRAS - Corporate Income Tax](https://www.iras.gov.sg/taxes/corporate-income-tax)
 - [IRAS - Responsibilities of GST-registered businesses](https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/basics-of-gst/responsibilities-of-a-gst-registered-business/3)

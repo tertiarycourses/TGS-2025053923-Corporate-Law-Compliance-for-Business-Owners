@@ -1,23 +1,34 @@
 # Activity 5: Regulatory Change Impact Assessment
 
-**Mapping:** K2, A2 / LO2  
-**Duration:** 25 minutes  
+**Mapping:** K2, A2 / LO2
+**Duration:** 25 minutes
 **Deliverable:** Completed impact assessment and recommendation.
 
 ## Goal
 
 Use the SCAN model to assess the effect of an ACRA register change on processes, systems, roles, evidence and third-party instructions.
 
-## Scenario
+## Real Case Study
 
-A company incorporated after 16 June 2025 uses a standard incorporation checklist written in 2024. The checklist creates its controller and nominee registers 30 days later and has no annual verification or central-register update step.
+**Case:** Yuan Shuhua - false RORC exemption declarations in annual returns
+**Date:** 31 October 2025
+**Status:** Convicted, fined and disqualified
+**Official source:** [ACRA - Three individuals fined for false declarations and consent failures](https://www.acra.gov.sg/news-events/news-announcements/899/)
+
+### Published Facts
+
+ACRA reported that Yuan Shuhua made false declarations in RH Corporate Pte Ltd's annual returns for financial years ended 31 December 2020 and 2021, stating that the company was exempt from keeping a Register of Registrable Controllers when it was not. He was fined $15,000 and disqualified from acting as a director or taking part in company management for five years.
+
+### Exercise Boundary
+
+Use the conviction as the failure event. Apply current ACRA register guidance to design the corrected process; do not assume current deadlines were identical during the offence period.
 
 ## Questions
 
-1. What changed and which companies are affected?
-2. Where does the old process fail?
-3. What options can management choose?
-4. What evidence proves the new process operates?
+1. Which factual and eligibility checks should precede an exemption declaration?
+2. Where could annual-return and RORC processes fail independently or together?
+3. How should current ACRA requirements change the control design?
+4. What evidence proves review, challenge, approval and filing accuracy?
 
 ## Detailed Step-by-Step
 
@@ -51,6 +62,7 @@ A company incorporated after 16 June 2025 uses a standard incorporation checklis
 
 ## Sources
 
+- [ACRA - Three individuals fined for false declarations and consent failures](https://www.acra.gov.sg/news-events/news-announcements/899/)
 - [ACRA - Company registers: requirements & deadlines](https://www.acra.gov.sg/manage/companies/legal-requirements-common-offences/maintaining-local-companys-information-registers/company-registers/)
 
 > Educational activity only; verify current requirements with the relevant regulator and qualified advisers.

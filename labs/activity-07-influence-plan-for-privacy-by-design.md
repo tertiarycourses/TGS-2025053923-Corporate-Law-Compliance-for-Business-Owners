@@ -1,23 +1,34 @@
 # Activity 7: Influence Plan for Privacy-by-Design
 
-**Mapping:** K2, A3 / LO2  
-**Duration:** 25 minutes  
+**Mapping:** K2, A3 / LO2
+**Duration:** 25 minutes
 **Deliverable:** Stakeholder map, influence messages and RACI.
 
 ## Goal
 
 Build a stakeholder-specific influence plan that positions compliance as a workable design constraint and business enabler.
 
-## Scenario
+## Real Case Study
 
-NexPort's Sales and Product teams resist new customer-data controls. Sales fears slower onboarding; Product fears delayed releases; Security wants strict approval gates; the DPO needs comparable overseas protection for support access.
+**Case:** Marina Bay Sands - security-control omission during software migration
+**Date:** 28 October 2025
+**Status:** PDPC breach decision and $315,000 financial penalty
+**Official source:** [PDPC - Breach of the Protection Obligation by Marina Bay Sands](https://www.pdpc.gov.sg/all-commissions-decisions/2025/10/breach-of-the-protection-obligation-by-marina-bay-sands-pte-ltd)
+
+### Published Facts
+
+PDPC reported that 665,495 Marina Bay Sands patrons had personal data illegally accessed and exfiltrated in October 2023. During a large software migration, one identifier for the Art Science Friends webpage was omitted from security-policy coverage. A single employee manually compiled API configurations without a second-layer check, and the omission remained undetected for six months. PDPC imposed a $315,000 penalty.
+
+### Exercise Boundary
+
+Use the published migration and control facts. Stakeholder objections, messages, RACI and pilot design are learner-created implementation proposals, not statements made by MBS or PDPC.
 
 ## Questions
 
-1. What does each stakeholder value and fear?
-2. Which behaviours must change in each function?
-3. What evidence will show the design works?
-4. Which disagreement requires executive resolution?
+1. Which stakeholder groups should have influenced migration design and sign-off?
+2. What behaviours must change in Product, Engineering, Security, Data and leadership?
+3. What evidence would show complete policy coverage before and after migration?
+4. Which residual-risk decision requires executive ownership?
 
 ## Detailed Step-by-Step
 
@@ -51,6 +62,7 @@ NexPort's Sales and Product teams resist new customer-data controls. Sales fears
 
 ## Sources
 
+- [PDPC - Breach of the Protection Obligation by Marina Bay Sands](https://www.pdpc.gov.sg/all-commissions-decisions/2025/10/breach-of-the-protection-obligation-by-marina-bay-sands-pte-ltd)
 - [PDPC - Required to notify the PDPC](https://www.pdpc.gov.sg/report-data-breach/before-you-report-a-data-breach-3/info)
 - [LeapXpert - Mastering legal compliance](https://www.leapxpert.com/mastering-legal-compliance-a-guide-for-businesses/)
 - [University of Pittsburgh Law - Corporate compliance laws and regulations](https://online.law.pitt.edu/blog/corporate-compliance-legislation)

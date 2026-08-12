@@ -1,23 +1,34 @@
 # Activity 2: Global Trigger and Regulatory Perimeter Map
 
-**Mapping:** K1, A1 / LO1  
-**Duration:** 20 minutes  
+**Mapping:** K1, A1 / LO1
+**Duration:** 20 minutes
 **Deliverable:** Regulatory perimeter map with owners and escalation rules.
 
 ## Goal
 
 Show how customers, data flows, contracts, staff and suppliers can make global legal developments relevant to a Singapore business.
 
-## Scenario
+## Real Case Study
 
-NexPort Solutions sells a Singapore-hosted SaaS platform to customers in Singapore, Malaysia and the EU. It uses overseas cloud support, employs remote staff and accepts enterprise contract clauses based on foreign privacy and security standards.
+**Case:** ACRA/CAD investigation involving 35 Singapore companies and foreign agents
+**Date:** 1 June 2023
+**Status:** Charges reported; do not treat allegations as convictions
+**Official source:** [ACRA - 12 persons charged with Companies Act offences](https://www.acra.gov.sg/news-events/news-announcements/726)
+
+### Published Facts
+
+ACRA reported that foreign agents used overseas corporate service providers to engage Singapore providers to incorporate local companies and open bank accounts. Investigations found that nominee directors of 35 Singapore-registered companies allowed foreign agents to operate the accounts, which received and laundered about US$36 million from local and overseas scam victims. Twelve persons were charged with Companies Act offences.
+
+### Exercise Boundary
+
+Treat the enforcement status accurately: the source reports charges and investigation findings. The perimeter map is a preventive analysis, not a finding about the guilt of every person charged.
 
 ## Questions
 
-1. Which cross-border touchpoints create a monitoring obligation?
-2. Which issues are Singapore baseline duties and which require foreign advice?
-3. Who should own horizon scanning for each trigger?
-4. What decision would require escalation to the board?
+1. Which cross-border actors, services, accounts and victims expanded the risk perimeter?
+2. Which Singapore director/CSP duties remain local even when instructions originate overseas?
+3. What customer, agent and transaction information should trigger enhanced review?
+4. Which red flags require refusal, escalation or a suspicious-transaction decision?
 
 ## Detailed Step-by-Step
 
@@ -51,7 +62,8 @@ NexPort Solutions sells a Singapore-hosted SaaS platform to customers in Singapo
 
 ## Sources
 
-- [PDPC - Required to notify the PDPC](https://www.pdpc.gov.sg/report-data-breach/before-you-report-a-data-breach-3/info)
+- [ACRA - 12 persons charged with Companies Act offences](https://www.acra.gov.sg/news-events/news-announcements/726)
+- [ACRA - Company directors' duties & key obligations](https://www.acra.gov.sg/manage/companies/legal-requirements-common-offences/directors-duties/)
 - [Wolters Kluwer - What is corporate regulatory compliance?](https://www.wolterskluwer.com/en/expert-insights/what-is-corporate-regulatory-compliance)
 - [University of Pittsburgh Law - Corporate compliance laws and regulations](https://online.law.pitt.edu/blog/corporate-compliance-legislation)
 - [ES Law - Corporate law basics every business owner should understand](https://eslaw.com/news-blog/2026/1/29/corporate-law-basics-every-business-owner-should-understand/)

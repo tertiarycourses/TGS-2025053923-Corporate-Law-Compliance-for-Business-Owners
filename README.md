@@ -8,14 +8,14 @@ WSQ courseware for **TGS-2025053923**, aligned to **ACC-BLR-5001-1.1 Corporate a
 
 ## Package
 
-- `courseware/Corporate Law Compliance for Business Owners-v2.0.pptx` — 103-slide trainer deck
-- `courseware/Corporate Law Compliance for Business Owners-v2.0.pdf` — learner slide PDF
-- `courseware/LG-Corporate Law Compliance for Business Owners-v2.0.docx` and PDF — detailed Learner Guide
-- `courseware/LP-Corporate Law Compliance for Business Owners-v2.0.docx` and PDF — mapped Lesson Plan
-- `labs/` — eight detailed case-study and activity worksheets
+- `courseware/Corporate Law Compliance for Business Owners-v2.1.pptx` — 103-slide trainer deck
+- `courseware/Corporate Law Compliance for Business Owners-v2.1.pdf` — learner slide PDF
+- `courseware/LG-Corporate Law Compliance for Business Owners-v2.1.docx` and PDF — detailed Learner Guide
+- `courseware/LP-Corporate Law Compliance for Business Owners-v2.1.docx` and PDF — mapped Lesson Plan
+- `labs/` — eight detailed real-case activity worksheets in both Markdown and PDF
 - `SOURCES.md` — primary and comparative source register
 
-The PowerPoint is concept-led and visual. Detailed step-by-step activity procedures are intentionally confined to the Learner Guide and Markdown worksheets.
+The PowerPoint is concept-led and visual. Detailed step-by-step activity procedures are intentionally confined to the Learner Guide and activity worksheets. Each activity is anchored to a documented Singapore ACRA, IRAS, MOM or PDPC case, with the published facts separated from learner-designed recommendations.
 
 ## Approved competency map
 

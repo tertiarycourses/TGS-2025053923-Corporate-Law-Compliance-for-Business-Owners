@@ -116,3 +116,43 @@ Built 12 August 2026. Singapore legal propositions use primary regulator sources
 
 - Type: AI-authored secondary source; taxonomy only and independently verified
 - URL: https://normbound.com/corporate-law-compliance-requirements/
+
+## ACRA - Individual fined $108,000 for authorising false filings
+
+- Type: Primary Singapore enforcement case
+- URL: https://www.acra.gov.sg/news-events/news-announcements/an-individual-fined--108-000-for-authorising-false-filings-with-the-registrar-of-companies-under-the-companies-act--cap--50--2006-rev--ed--/
+
+## ACRA - 12 persons charged with Companies Act offences
+
+- Type: Primary Singapore enforcement case - charges and investigation findings
+- URL: https://www.acra.gov.sg/news-events/news-announcements/726
+
+## IRAS - Husband and wife convicted for multiple tax evasions
+
+- Type: Primary Singapore enforcement case
+- URL: https://www.iras.gov.sg/news-events/newsroom/husband-and-wife-convicted-for-multiple-tax-evasions
+
+## PDPC - Decision and undertakings announced on 26 February 2026
+
+- Type: Primary Singapore regulatory decision summary
+- URL: https://www.pdpc.gov.sg/news-and-events/announcements/2026/02/new-commissions-decision-and-undertakings-on-26-february-2026
+
+## ACRA - Three individuals fined for false declarations and consent failures
+
+- Type: Primary Singapore enforcement case
+- URL: https://www.acra.gov.sg/news-events/news-announcements/899/
+
+## IRAS - Key GST missing-trader-fraud syndicate member sentenced
+
+- Type: Primary Singapore enforcement case
+- URL: https://www.iras.gov.sg/news-events/newsroom/key-member-behind-goods-and-services-tax-missing-trader-fraud-syndicate-sentenced-to-six-years%27-imprisonment
+
+## PDPC - Breach of the Protection Obligation by Marina Bay Sands
+
+- Type: Primary Singapore regulatory decision
+- URL: https://www.pdpc.gov.sg/all-commissions-decisions/2025/10/breach-of-the-protection-obligation-by-marina-bay-sands-pte-ltd
+
+## MOM - Stars Engrg director sentenced over 2021 Tuas explosion
+
+- Type: Primary Singapore enforcement case
+- URL: https://www.mom.gov.sg/newsroom/press-releases/2026/0625-stars-engrg-director-sentenced-over-2021-workplace-explosion-at-tuas
