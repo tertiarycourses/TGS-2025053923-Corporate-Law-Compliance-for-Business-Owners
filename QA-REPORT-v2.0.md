@@ -57,8 +57,9 @@ No stale K3 reference from the old learner paper remains.
 - The supplied ACRA announcement 872 page was inaccessible at build time and is explicitly marked as not relied upon.
 - Educational/legal-advice boundary and currency warnings are prominent.
 
-## F. Publication gates
+## F. Publication verification
 
-- Google Drive: dry-run required before upload; superseded artifacts to be archived by the publication script.
-- TMS: authenticated dry-run required after Drive upload; only candidate assessment papers are linked.
-- GitHub: secret scan and explicit-file staging required; `.env`, assessments, references and QA render outputs are excluded.
+- Google Drive dry-run passed, then the full package was uploaded. Superseded v1/v2 artifacts were moved to archive folders; no destructive deletion was used.
+- TMS authenticated dry-run passed after upload. The production write returned HTTP 200 and all seven courseware fields were read back and fetched successfully.
+- TMS links only the WA and Case Study candidate papers; answer keys remain in the controlled Drive assessment folder and are not linked to learners.
+- GitHub was replaced with explicit-file staging after a secret scan. Remote and local commit SHAs were verified equal; `.env`, assessments, references, generated build tooling and QA render outputs are excluded.
