@@ -1,0 +1,80 @@
+{
+  "topics": {
+    "1": {
+      "title": "Singapore's Legal and Regulatory Framework in a Global Context",
+      "start": 23,
+      "end": 39
+    },
+    "2": {
+      "title": "Industry-Specific Business Laws and Compliance",
+      "start": 41,
+      "end": 57
+    },
+    "3": {
+      "title": "Business Decision-Making in Response to Regulatory Changes",
+      "start": 59,
+      "end": 75
+    },
+    "4": {
+      "title": "Influencing Business Units to Adapt to New Regulations",
+      "start": 77,
+      "end": 93
+    }
+  },
+  "activities": {
+    "1": {
+      "title": "Board Duties and Governance Gap Scan",
+      "start": 34,
+      "end": 36
+    },
+    "2": {
+      "title": "Global Trigger and Regulatory Perimeter Map",
+      "start": 37,
+      "end": 39
+    },
+    "3": {
+      "title": "Five-Agency Compliance Calendar",
+      "start": 52,
+      "end": 54
+    },
+    "4": {
+      "title": "Data Breach Notification Tabletop",
+      "start": 55,
+      "end": 57
+    },
+    "5": {
+      "title": "Regulatory Change Impact Assessment",
+      "start": 70,
+      "end": 72
+    },
+    "6": {
+      "title": "Board Decision Memo: Digital Filing Controls",
+      "start": 73,
+      "end": 75
+    },
+    "7": {
+      "title": "Influence Plan for Privacy-by-Design",
+      "start": 88,
+      "end": 90
+    },
+    "8": {
+      "title": "90-Day Compliance Operating Model",
+      "start": 91,
+      "end": 93
+    }
+  },
+  "segments": {
+    "admin": [
+      1,
+      16
+    ],
+    "core": [
+      17,
+      22
+    ],
+    "wrap": [
+      94,
+      103
+    ]
+  }
+}

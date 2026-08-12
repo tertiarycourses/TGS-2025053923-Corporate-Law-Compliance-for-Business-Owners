@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.qa/
+assessment/
+reference/
+tms/
+archive/
+*.tmp
+*.log
+*.bak
+*.pyc
+__pycache__/
+.~lock.*#
