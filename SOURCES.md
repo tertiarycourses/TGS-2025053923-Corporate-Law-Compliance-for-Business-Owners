@@ -132,10 +132,10 @@ Built 12 August 2026. Singapore legal propositions use primary regulator sources
 - Type: Primary Singapore enforcement case
 - URL: https://www.iras.gov.sg/news-events/newsroom/husband-and-wife-convicted-for-multiple-tax-evasions
 
-## PDPC - Decision and undertakings announced on 26 February 2026
+## PDPC - Breach of the Protection Obligation by SESAMi and Abecha
 
-- Type: Primary Singapore regulatory decision summary
-- URL: https://www.pdpc.gov.sg/news-and-events/announcements/2026/02/new-commissions-decision-and-undertakings-on-26-february-2026
+- Type: Primary Singapore regulatory decision
+- URL: https://www.pdpc.gov.sg/all-commissions-decisions/2026/02/breach-of-the-protection-obligation-by-sesami-singapore-pte-ltd-and-abecha-pte-ltd
 
 ## ACRA - Three individuals fined for false declarations and consent failures
 

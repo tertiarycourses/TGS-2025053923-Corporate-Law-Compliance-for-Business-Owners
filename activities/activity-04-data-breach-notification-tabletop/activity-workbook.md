@@ -10,18 +10,18 @@ Practise containment, assessment, decision ownership, notification timing and ev
 
 ## Real Case Study
 
-**Case:** PDPC February 2026 ransomware decision - shared B2B e-commerce network
+**Case:** SESAMi (Singapore) Pte Ltd and Abecha Pte Ltd - shared B2B e-commerce ransomware incident
 **Date:** 26 February 2026
-**Status:** PDPC decision; organisation not named in the announcement summary
-**Official source:** [PDPC - Decision and undertakings announced on 26 February 2026](https://www.pdpc.gov.sg/news-and-events/announcements/2026/02/new-commissions-decision-and-undertakings-on-26-february-2026)
+**Status:** PDPC breach decision and directions
+**Official source:** [PDPC - Breach of the Protection Obligation by SESAMi and Abecha](https://www.pdpc.gov.sg/all-commissions-decisions/2026/02/breach-of-the-protection-obligation-by-sesami-singapore-pte-ltd-and-abecha-pte-ltd)
 
 ### Published Facts
 
-PDPC announced a decision concerning a ransomware incident on a shared network managed by a B2B e-commerce service provider. About 39,000 individuals were affected and bank and credit-card details were among the data rendered inaccessible. PDPC identified unpatched systems, weak access controls and failure to enforce multi-factor authentication, found a breach of the Protection Obligation, and issued directions to strengthen security.
+PDPC published a decision concerning a ransomware incident affecting SESAMi and Abecha on a shared B2B e-commerce network. About 39,000 individuals were affected and bank and credit-card details were among the data rendered inaccessible. PDPC identified unpatched systems, weak access controls and failure to enforce multi-factor authentication, found a breach of the Protection Obligation, and issued directions to strengthen security.
 
 ### Exercise Boundary
 
-The official summary does not publish every incident-response timestamp. Learners must identify missing facts and build a notification decision log without inventing what the organisation actually knew or notified.
+The published materials do not supply every incident-response timestamp needed for this classroom tabletop. Learners must mark scenario assumptions as assumptions and must not present invented timestamps as case facts.
 
 ## Questions
 
@@ -62,7 +62,7 @@ The official summary does not publish every incident-response timestamp. Learner
 
 ## Sources
 
-- [PDPC - Decision and undertakings announced on 26 February 2026](https://www.pdpc.gov.sg/news-and-events/announcements/2026/02/new-commissions-decision-and-undertakings-on-26-february-2026)
+- [PDPC - Breach of the Protection Obligation by SESAMi and Abecha](https://www.pdpc.gov.sg/all-commissions-decisions/2026/02/breach-of-the-protection-obligation-by-sesami-singapore-pte-ltd-and-abecha-pte-ltd)
 - [PDPC - Required to notify the PDPC](https://www.pdpc.gov.sg/report-data-breach/before-you-report-a-data-breach-3/info)
 
 > Educational activity only; verify current requirements with the relevant regulator and qualified advisers.
